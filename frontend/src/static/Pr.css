@@ -1,0 +1,28 @@
+.head{
+    background-color: #36454F !important;
+}
+
+
+.ImageProduct{
+    width: 360px;
+    height: 240px;
+}
+
+.float-container {
+    padding: 20px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}  
+
+.container{
+    margin-top: 2%;
+}
+
+.buttonSpacing{
+    margin: 10px;
+}
+
