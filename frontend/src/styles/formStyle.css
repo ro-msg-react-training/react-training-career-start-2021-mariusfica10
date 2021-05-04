@@ -1,0 +1,33 @@
+input[type="text"] {
+  padding: 10px;
+  border: 0;
+  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
+}
+
+input {
+  margin-top: 5px;
+  width: 500px;
+  height: 40px;
+}
+
+form {
+  margin-left: 15%;
+}
+
+.spacing {
+  margin-top: 5%;
+}
+
+.spacing2 {
+  margin-bottom: 3%;
+}
+
+.field {
+  margin-top: 2%;
+}
+
+.selector {
+  min-width: 300px;
+  margin-right: 25px;
+  margin-bottom: 50px;
+}
